@@ -8,9 +8,15 @@ Just a chill Arch Linux user. Likes to cave in his room and tweak his Hyprland c
 - C++ ![35%](https://progress-bar.dev/35)
 - Go ![10%](https://progress-bar.dev/10)
 
-### Pronouns
+### Pronouns (I'm a male, but gender-neutral are fine too)
 - He/him ♂️
 - They/them
 
-### Contact (idk why you would want to, but whatever)
+### Contact (idk why you would want to, but it's here)
 - Discord: shizukanaotaku
+
+### Github Stats (hey, they're not THAT awful)
+[![Shizukana's github stats](https://github-readme-stats-chi-silk.vercel.app/api?username=javatrix&count_private=true&theme=tokyonight&show_icons=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-chi-silk.vercel.app/api/top-langs/?username=javatrix&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+(ok, they're pretty bad)
