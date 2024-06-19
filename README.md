@@ -1,16 +1,15 @@
-## Hi there 👋
+# Shizukana Otaku
 
-<!--
-**Javatrix/Javatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a chill Arch Linux user. Likes to cave in his room and tweak his Hyprland configs. Sometimes doing a big Java/C++ project, or just writing some CLI utilities in Go (currently learning).
 
-Here are some ideas to get you started:
+### Languages (being) learned w/ approximate fluency level
+- Java 9/10
+- C++ 5/10
+- Go 1/10
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Pronouns
+- He/him
+- They/them
+
+### Contact (idk why you would want to, but whatever)
+- Discord: shizukanaotaku
