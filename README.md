@@ -3,12 +3,12 @@
 
 Just a chill Arch Linux user. Likes to cave in his room and tweak his Hyprland configs. Sometimes doing a big Java/C++ project, or just writing some CLI utilities in Go (currently learning).
 
-### Languages (being) learned w/ approximate fluency level
+### Languages learned w/ approximate level (rating by ChatGPT)
 - Java ![90%](https://progress-bar.dev/90)
-- C++ ![35%](https://progress-bar.dev/35)
-- Go ![10%](https://progress-bar.dev/10)
+- C++ ![35%](https://progress-bar.dev/81)
+- Go ![55%](https://progress-bar.dev/55)
 
-### Pronouns (I'm a male, but gender-neutral are fine too)
+### Pronouns (I'm male, but gender-neutral are fine too)
 - He/him ♂️
 - They/them
 
