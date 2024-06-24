@@ -12,9 +12,9 @@ Taught a person how to install both Debian-based and Arch distros, as well as te
 - C++ ![35%](https://progress-bar.dev/81)
 - Go ![55%](https://progress-bar.dev/55)
 
-### Pronouns (I'm male, but gender-neutral are fine too)
+### Pronouns
 - He/him ♂️
-- They/them
+- Catboy/weeb 🇯🇵
 
 ### Contact (idk why you would want to, but it's here)
 - Discord: shizukanaotaku
