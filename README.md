@@ -4,7 +4,7 @@
 
 Just a chill Arch Linux user. Likes to cave in his room and tweak his Hyprland configs. Sometimes doing a big, private project, or just writing some CLI utilities in Rust.
 Started with Java, now I know some things about C++ and Rust as well.
-## Official Linux Guru
+## Ceritified(actually not) Linux Guru
 Taught a person how to install both Debian-based and Arch distros, as well as teaching the filesystem and basic skills required to operate a Linux distro.
 
 *Of course, when I say Linux, I am referring to GNU/Linux, or as it started being called recently, GNU+Linux. Linux is not an operating system unto itself...*
