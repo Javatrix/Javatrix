@@ -1,5 +1,6 @@
 # Shizukana Otaku
-<img src=https://archlinux.org/static/logos/archlinux-logo-white-90dpi.3a3e8fd083d2.png style="width: 50%"></img>
+![image](https://github.com/user-attachments/assets/640b9606-4006-445f-8609-bc2752c2ba3d)
+
 
 Just a chill Arch Linux user. Likes to cave in his room and tweak his Hyprland configs. Sometimes doing a big, private project, or just writing some CLI utilities in Rust.
 Started with Java, now I know some things about C++ and Rust as well.
